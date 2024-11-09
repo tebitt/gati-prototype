@@ -29,6 +29,6 @@ pip install -r backend/requirements.txt
 
 ### Compiles and hot-reloads for development
 ```
-uvicorn server:app --reload
+uvicorn backend.server:app --reload
 ```
 
